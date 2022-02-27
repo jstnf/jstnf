@@ -2,7 +2,7 @@
 ![](https://github.com/jstnf/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/jstnf/github-stats/blob/master/generated/languages.svg)
 
-## <img src="errors.gif?raw=true" align="right" width="225"> ✨ About Me
+## <img src="errors.gif?raw=true" align="right" width="200"> ✨ About Me
 🎓 Studying for B.S. Computer Science (2023)
 <br>💼 Course Reader @ UC Riverside
 <br>💻 *previously* Developer @ [Tapple](https://github.com/OfficialTapple)
