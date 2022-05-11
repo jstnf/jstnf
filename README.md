@@ -9,6 +9,7 @@
 <br>🌏 Proud Filipino
 <br>🏀 Lakers Fan
 <br>🎹 Plays Piano and Uke
+<br>🇯🇵 日本語しゃべる
 
 ### ⚡ Languages and Frameworks
 <table>
@@ -20,7 +21,7 @@
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
     </td>
   </tr>
-    <td>Back End</td>
+    <td>Cloud</td>
     <td>
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
@@ -28,7 +29,7 @@
     </td>
   </tr>
   <tr>
-    <td>OOP</td>
+    <td>Back End</td>
     <td>
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -68,3 +69,4 @@
 ## 🎈 Check out my...
 🌐 [Portfolio Website](https://justinf.dev/)
 <br>📘 [LinkedIn](https://linkedin.com/in/jstnf)
+<br>🐤 [Twitter](https://twitter.com/jstnfdev/)
