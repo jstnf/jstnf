@@ -3,8 +3,7 @@
 ![](https://github.com/jstnf/github-stats/blob/master/generated/languages.svg)
 
 ## <img src="errors.gif?raw=true" align="right" width="200"> ✨ About Me
-🎓 Studying for B.S. Computer Science (2023)
-<br>💼 Network/Games @ [SpeedSilver](https://www.youtube.com/@SpeedSilverr)
+<br>💼 Network/Games @ [SpeedSilver](https://www.youtube.com/@SpeedSilver)
 <br>💻 *previously* Developer @ [Tapple](https://github.com/OfficialTapple)
 <br>🌏 Proud Filipino
 <br>🏀 Lakers Fan
